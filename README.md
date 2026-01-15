@@ -110,4 +110,4 @@ Created as a demonstration project for HTML/CSS table styling with interactive e
 
 ---
 
-**Happy Browsing!** 🌐
+
